@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526506570858",
+    "project_id": "loja-virtual-raisa-doces",
+    "storage_bucket": "loja-virtual-raisa-doces.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526506570858:android:f4fbec7a687e92cfd38613",
+        "android_client_info": {
+          "package_name": "br.com.raisadocesebolos.loja_raisa_doces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526506570858-0g98uksd25cit8sm9u6ke7sidj0j4mcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACxZ-JZy5jxA2L33Ep_jpsRM7fEQvb9kE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526506570858-0g98uksd25cit8sm9u6ke7sidj0j4mcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
